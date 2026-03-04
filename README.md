@@ -6,7 +6,6 @@
 
 - 📍 Location: Delhi, India
 - 🎓 Education: University of Illinois Urbana-Champaign
-- 💼 Company: University of Illinois Urbana Champaign
 - 📚 Public Repositories: 20
 - 👥 Following: 2 developers
 - 📅 GitHub Member Since: May 4, 2021
