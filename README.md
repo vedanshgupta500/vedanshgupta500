@@ -118,7 +118,7 @@
 **Building the future, one AI project at a time** ⚡
 
 <a href="https://github.com/vedanshgupta500"><img src="https://img.shields.io/badge/GitHub-vedanshgupta500-00D9FF?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/vedansh-gupta"><img src="https://img.shields.io/badge/LinkedIn-Vedansh%20Gupta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="[https://linkedin.com/in/vedanshgupta](https://www.linkedin.com/in/vedanshgupta500/)"><img src="https://img.shields.io/badge/LinkedIn-Vedansh%20Gupta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 
 </div>
 
